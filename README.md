@@ -1,16 +1,20 @@
 # Professional README Generator Starter Code
 
-[How to create a Professional README](./readme-guide.md)
-
 
   
 # ReadMe Generator
 
 
+-----
+  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)  ![badmath](https://img.shields.io/badge/Technology-Node-red)
+  ![badmath](https://img.shields.io/badge/License-MIT-blue) ![badmath](https://img.shields.io/badge/Technology-NMP-brightgreen)
+
+-----
+
 ## Description
 ------
 
-  This repo creates a readme fie to list all completed projects and links
+  This Repo ask a few questions to the user to create a ReadMe page for a repo
 
 ## Table of Contents
 ------
@@ -25,7 +29,7 @@
 
 ## Installation
 
- Download from GitHub 
+ Go to GitHub and Clone 
 
   ## Usage
 
@@ -66,7 +70,7 @@
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
-  
+
  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
  ![badmath](https://img.shields.io/badge/License-Apache%202.0-lightgrey)
@@ -76,12 +80,12 @@
  ![badmath](https://img.shields.io/badge/License-GPL-yellow)
 
 
-  
+  MIT,Apache 2.0,JavaScript,GPL
 
   ## Questions
 
 
-  Any questions please contact [GitHub Profile](https://github.com/torreseam) or by email at [torreseam@yahoo.com](torreseam@yahoo.com)
+  Any questions please contact [GitHub Profile](https://github.com/Torreseam) or by email at [torreseam@yahoo.com](torreseam@yahoo.com)
 
 
   
