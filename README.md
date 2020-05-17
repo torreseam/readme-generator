@@ -47,7 +47,7 @@
 
   
 
-  ## License
+  ## Licenses
 
   MIT License
 
